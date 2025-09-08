@@ -49,7 +49,7 @@ Me chamo Gustavo Catucci, tenho 29 anos e sou de Brasília. Sou formado em Anál
 ---
 
 ### 🌐 Portfólio
-🔗 [**Acesse meu portfólio**]([https://](https://portfolio-alpha-topaz-86.vercel.app))
+🔗 [**Acesse meu portfólio**]([https://portfolio-alpha-topaz-86.vercel.app])
 
 ---
 
