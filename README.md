@@ -23,30 +23,14 @@ Me chamo Gustavo Catucci, tenho 29 anos e sou de Brasília. Sou formado em Anál
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" style="padding-right: 10px;" align="left"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" style="padding-right: 10px;" align="left"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" style="padding-right: 10px;" align="left"/>
 </p>
-
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p align="">
-  <img 
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Gustavocl22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      alt="GitHub Stats" 
-      height="200"
-      width="350" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavocl22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
----
+----
 
 ### 🌐 Portfólio
 🔗 [**Acesse meu portfólio**](https://portfolio-alpha-topaz-86.vercel.app)
