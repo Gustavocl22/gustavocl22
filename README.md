@@ -5,7 +5,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Gustavo Catucci, tenho 29 anos e sou de Brasília. Sou formado em Análise e Desenvolvimento de Sistemas pela UDF e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Machine Learning. Sou apaixonado por tecnologia, sempre buscando aprender e explorar novas ferramentas que possam transformar ideias em soluções reais. Atualmente, estou em busca de oportunidades de trabalho na área de tecnologia, onde possa aplicar meus conhecimentos e continuar aprendendo.
+Me chamo Gustavo Catucci e sou formado em Análise e Desenvolvimento de Sistemas pela UDF, atualmente cursando pós-graduação em Inteligência Artificial e Machine Learning. Sou apaixonado por tecnologia e movido pela curiosidade de aprender e explorar novas ferramentas, sempre com o objetivo de transformar ideias em soluções práticas. Busco oportunidades na área de tecnologia onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e continuar aprendendo de forma constante.
 
 ---
 
