@@ -24,7 +24,6 @@ Me chamo Gustavo Catucci e sou formado em Análise e Desenvolvimento de Sistemas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" style="padding-right: 10px;" align="left"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" style="padding-right: 10px;" align="left"/>
 </p>
 
 <br/>
